@@ -4,10 +4,10 @@
 I'm a software engineer currently studying at Rose-Hulman Institute of Technology. I love game development, audio engineering, and web development. Check out [my website](https://hmorin.com) for more information.
 
 ### Currently Working On
-I'm currently designing a game that blends turn-based RPGs with rhythm games. It's based around collecting synthesizers which are my favorite instrument. Check out my website from time to time to see if i've posted any anouncements.
+I'm currently designing a game that blends turn-based RPGs with rhythm games. It's based around collecting synthesizers which are my favorite instrument. Check out [my website](https://hmorin.com) from time to time to see if i've posted any anouncements.
 
 ### Past Projects
-I've worked on a few projects in the past. Most notibly I updated an open-source arduino script for connecting RC Transmitters to Windows computers to support the new arduino editor. I've also worked on a couple of hackathon projects with some friends. Most notibly is of course TinyTV. Check out my website for more information and direct links to all of these.
+I've worked on a few projects in the past. Most notibly I updated an open-source arduino script for connecting RC Transmitters to Windows computers to support the new arduino editor. I've also worked on a couple of hackathon projects with some friends. Most notibly is of course TinyTV. Check out [my website](https://hmorin.com) for more information and direct links to all of these.
 <!--
 **220111/220111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
