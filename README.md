@@ -6,6 +6,8 @@ I'm a software engineer currently studying at Rose-Hulman Institute of Technolog
 ### Currently Working On
 I'm currently designing a game that blends turn-based RPGs with rhythm games. It's based around collecting synthesizers which are my favorite instrument. Check out [my website](https://hmorin.com) from time to time to see if i've posted any anouncements.
 
+OR maybe I'm not and I am working on something else more exciting.
+
 ### Past Projects
 I've worked on a few projects in the past. Most notibly I updated an open-source arduino script for connecting RC Transmitters to Windows computers to support the new arduino editor. I've also worked on a couple of hackathon projects with some friends. Most notibly is of course TinyTV. Check out [my website](https://hmorin.com) for more information and direct links to all of these.
 <!--
