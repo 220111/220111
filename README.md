@@ -1,10 +1,9 @@
 # HENRY MORIN
 
 ### About
-I'm a software engineer currently studying at Rose-Hulman Institute of Technology. I love game development, audio engineering, and web development. Check out [my website](https://hmorin.com) for more information.
+I'm a software engineer currently studying at Rose-Hulman Institute of Technology. I love web development, audio engineering, and game development. Check out [my website](https://hmorin.com) for more information.
 
 ### Currently Working On
-- A game that blends turn-based RPGs with rhythm games. It's based around collecting synthesizers which are my favorite instrument.
 - Learning a bunch about web development with focus on Rust for backend.
 - School work (All of my free time is going here)
 
