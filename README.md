@@ -4,7 +4,8 @@
 I'm a software engineer currently studying at Rose-Hulman Institute of Technology. I love web development, audio engineering, and game development. Check out [my website](https://hmorin.com) for more information.
 
 ### Currently Working On
-- Learning a bunch about web development with focus on Rust for backend.
+- Working on building a super flexable tiny CMS that will allow for easy and affordable custom deployments.
+- Web dev using Sveltekit and PocketBase.
 - School work (All of my free time is going here)
 
 ### Past Projects
