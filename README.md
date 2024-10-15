@@ -5,7 +5,6 @@ I'm a software engineer currently studying at Rose-Hulman Institute of Technolog
 
 ### Currently Working On
 - Working on some freelance web development with companies from my hometown using Hugo and some custom templates.
-- Learning a little about the stock market, corporate finance, and using machine learning to try to make sense of them.
 - Web dev using Sveltekit and PocketBase.
 - School work
 
